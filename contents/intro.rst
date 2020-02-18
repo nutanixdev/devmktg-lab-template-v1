@@ -28,8 +28,6 @@ Here's some text.
 
 **This text is bold.**
 
-_This text it italic._
-
 Summary for the Intro
 .....................
 
